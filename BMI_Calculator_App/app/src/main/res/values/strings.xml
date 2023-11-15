@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="user_guide">If you are not registered then Please register your email</string>
+    <string name="registration_guide">Register your email and create your password.</string>
+    <string name="appName">BMI_Calculator_App</string>
+    <string name="logout">Logout</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="feet">Feet</string>
+    <string name="inch">Inch</string>
+    <string name="result">Result</string>
+    <string name="bmi">BMI :</string>
+    <string name="bmi_result_num">0</string>
+    <string name="email_hint">Enter email</string>
+    <string name="email">Email :</string>
+    <string name="password">Password :</string>
+    <string name="hint_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="note">Note</string>
+    <string name="click_for_register">Click for Register</string>
+    <string name="registration">Registration</string>
+    <string name="confirm_password">Confirm Password :</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="kg">Kg</string>
+    <string name="health">Health</string>
+    <string name="dash">----</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240465843899",
+    "project_id": "user-login-app-72243",
+    "storage_bucket": "user-login-app-72243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240465843899:android:9f730d9bdba69826763b9e",
+        "android_client_info": {
+          "package_name": "com.example.bmicalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJllmX8h2xsfrmt_Xf1lpgb3M3BPtbzVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240465843899:android:191cb9c600d42e0e763b9e",
+        "android_client_info": {
+          "package_name": "com.example.userloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJllmX8h2xsfrmt_Xf1lpgb3M3BPtbzVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
